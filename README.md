@@ -32,9 +32,8 @@
 ## Hướng dẫn cài đặt
 
 ### Cài đặt thư viện Python
-```bash
-pip install pillow
-```
+
+Cài đặt các thư viện trên.
 
 ### Cài đặt steghide
 - Ubuntu/Debian:
