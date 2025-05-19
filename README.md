@@ -63,12 +63,15 @@ python main.py
 ### Hình ảnh
 
 Ẩn dữ liệu:
+
 ![image](https://github.com/user-attachments/assets/068c945d-6da4-4b77-a735-3ae3482e1e69)
 
-Trích xuất dữ liệu
+Trích xuất dữ liệu:
+
 ![image](https://github.com/user-attachments/assets/f37decf1-c134-4022-a157-e567bdfa07f7)
 
 Dữ liệu:
+
 ![image](https://github.com/user-attachments/assets/e290ea28-1398-4ad2-9199-b0eb61a4bdda)
 
 
