@@ -59,3 +59,9 @@ python main.py
 4. Bấm "Nhúng dữ liệu"
 5. Xem kết quả
 6. Để trích xuất: chọn ảnh + mật khẩu và chọn nơi lưu file
+
+### Hình ảnh
+
+![image](https://hackmd.io/_uploads/S1zXkUdZxe.png)
+![image](https://hackmd.io/_uploads/Skbzl8_Wgl.png)
+![image](https://hackmd.io/_uploads/H1rmx8dbgg.png)
